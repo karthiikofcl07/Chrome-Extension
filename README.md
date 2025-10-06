@@ -85,6 +85,10 @@ The extension extracts the main content from the current webpage and sends it to
 
 ---
 
+
+## Working Model
+
+
 ## 💡 Contributing
 
 We welcome contributions! To get started:
