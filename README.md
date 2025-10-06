@@ -87,6 +87,7 @@ The extension extracts the main content from the current webpage and sends it to
 
 
 ## Working Model
+https://github.com/karthiikofcl07/Chrome-Extension/issues/1
 
 
 ## 💡 Contributing
